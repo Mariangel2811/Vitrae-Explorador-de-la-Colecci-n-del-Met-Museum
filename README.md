@@ -1,1 +1,1 @@
-# MetHub-Explorador-de-la-Colecci-n-del-Met-Museum-
+# MetHub — Explorador de la Colección del Met Museum
