@@ -1,4 +1,4 @@
-# MetHub — Explorador de la Colección del Met Museum
+# Vitrae — Explorador de la Colección del Met Museum
 
 ## Integrantes
 - Mariangel Campos
